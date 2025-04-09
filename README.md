@@ -40,7 +40,7 @@ Revenez sur votre branche
 Ajouter votre nom dans prenoms.txt
 
 Par VS Code:
-Stage the files you want to push
+appuyer sur le + pour stage les fichiers avant de commit
 ![image](https://github.com/user-attachments/assets/5f007ac7-e7cc-4d9d-a0e4-5b044762b8c6)
 ![image](https://github.com/user-attachments/assets/3dca7828-cc4a-4c2e-8fd9-cb9bc4a4a8a1)
 
