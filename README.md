@@ -1,3 +1,5 @@
 # fichiers-prénoms
 
-## Première étape
+## Cloner le projet
+Par commande:
+git clone 
